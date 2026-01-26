@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Minseon-Son/Minseon-Son.gihub.io",
+    "data-repo": "Minseon-Son/minseon-son.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
