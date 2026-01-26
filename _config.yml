@@ -53,6 +53,10 @@ external_services:
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
+social:
+  github: minseon-son
+  linkedin: minseon-son-25391a39a
+  email: minseon0817@ewha.ac.kr
 
 navbar_fixed: true
 footer_fixed: true
