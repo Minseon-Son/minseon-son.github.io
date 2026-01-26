@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Minseon-Son.github.io/sitemap.xml
+Sitemap: https://minseon-son.github.io/sitemap.xml
